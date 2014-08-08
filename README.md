@@ -54,6 +54,24 @@ _Instead of listing your dependencies twice, do it all in javascript._
 
 ---
 
+### Installation
+
+1. Grab it from your favorite registry:
+ - `curl https://raw.githubusercontent.com/zzmp/dependency/master/dependency.js > lib/dependency/dependency.js`
+ - `git clone git@github.com:zzmp/dependency.git`
+ - `bower install dependency`
+ - `npm install ng-dependency`
+1. Include it in your index.html, just after angular:
+
+  ```html
+  <script src="lib/angular/angular.js"></script>
+  <script src="lib/dependency/dependency.js"></script>
+  ```
+
+---
+
+### Features
+
 #### Declare your dependencies directly in the module
 
 ```js

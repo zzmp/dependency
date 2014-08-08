@@ -1,0 +1,26 @@
+{
+  "name": "ng-dependency",
+  "version": "0.0.0",
+  "description": "External dependency loader for quick ng prototyping",
+  "main": "dependency.js",
+  "scripts": {
+    "test": "echo \"Want to contribute? Make some tests!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zzmp/dependency.git"
+  },
+  "keywords": [
+    "ng",
+    "dependency",
+    "angular",
+    "angularjs",
+    "module"
+  ],
+  "author": "Zach Pomerantz <zmp@umich.edu> (http://garabagne.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzmp/dependency/issues"
+  },
+  "homepage": "https://github.com/zzmp/dependency"
+}

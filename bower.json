@@ -1,0 +1,26 @@
+{
+  "name": "dependency",
+  "main": "dependency.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zzmp/dependency",
+  "authors": [
+    "zzmp <zmp@umich.edu>"
+  ],
+  "description": "External dependency loader for quick ng prototyping",
+  "keywords": [
+    "ng",
+    "dependency",
+    "angular",
+    "angularjs",
+    "module"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/lib",
+    "test",
+    "tests"
+  ]
+}
